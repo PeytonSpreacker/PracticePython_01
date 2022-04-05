@@ -1,6 +1,7 @@
 name = input('What is your name? ')
 print('Your name is '+ name)
 
+#this section will be obselete in 2023
 age = int(input('What age are you? '))
 print('You will turn 100 years old in', (2022+(100-age)))
 
